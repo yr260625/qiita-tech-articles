@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  qiita_sync_check:
+  qiita_sync:
     name: Run qiita-sync sync
     runs-on: ubuntu-latest
     steps:
