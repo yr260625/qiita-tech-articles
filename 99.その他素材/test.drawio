@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="dPMMJRdg5JLt45Wqnjq1" name="01. 銀行自動振込_概要">
-        <mxGraphModel dx="2074" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="713" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,7 +25,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="uZalpt71huJ9y8oAyIF0-2" value="銀行口座C&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(振込差先)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ABFF6B;strokeColor=#97D718;" parent="1" vertex="1">
+                <mxCell id="uZalpt71huJ9y8oAyIF0-2" value="銀行口座C&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(振込先)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ABFF6B;strokeColor=#97D718;" parent="1" vertex="1">
                     <mxGeometry x="400" y="190" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="uZalpt71huJ9y8oAyIF0-4" value="¥10,000 × 25回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
